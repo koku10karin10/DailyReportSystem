@@ -1,7 +1,9 @@
-package com.Start;
+package com;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+
+import com.DailyReportSystemApplication;
 
 public class ServletInitializer extends SpringBootServletInitializer {
 
